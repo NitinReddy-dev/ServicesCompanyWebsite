@@ -127,7 +127,7 @@ body {
 }
 
 #hero {
-    background-image: -moz-linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url(images/herobg.jpg );
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url(images/herobg.jpg );
     height: 50vh;
     width: 100%;
     background-position: center;
@@ -203,7 +203,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: -moz-linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/banner.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/banner.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -260,7 +260,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: -moz-linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/con.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/con.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -377,7 +377,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: -moz-linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/foot.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(images/foot.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
